@@ -1,4 +1,4 @@
-# Battery-System-Engineering-Tool-v1
+# Battery System Engineering Tool — v1
 
 ## What is this?
 
